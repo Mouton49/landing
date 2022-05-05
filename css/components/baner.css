@@ -1,0 +1,32 @@
+.baner {
+  background-image: url("/landing/images/background.png");
+  /* height: 400px; */
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.baner-text {
+  color: #1EDD88 ;
+  margin-left: 200px;
+}
+
+.bouton {
+  background-color: #1EDD88;
+  color: grey;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.baner-text > p {
+  font-weight: lighter;
+  font-size: 20px;
+  color: lightgray;
+  /* margin-top: none; */
+}
+
+a {
+  color: aliceblue;
+}

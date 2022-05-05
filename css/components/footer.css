@@ -1,0 +1,22 @@
+.footer {
+  background-color: #2c2b2b;
+  color: beige;
+  text-align: center;
+  height: 130px;
+}
+
+.social {
+  display: inline-block;
+  padding: 8px;
+  margin-top: 20px;
+  list-style: none;
+}
+
+.social-group{
+  padding: 0px;
+}
+
+.social i{
+  font-size: 40px;
+  color: #1EDD88;
+}
